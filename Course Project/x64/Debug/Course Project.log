@@ -1,0 +1,6 @@
+﻿  Course Project.cpp
+C:\Users\Admin\OneDrive\Documents\SchoolWork\CIS 7\Course Project\Course Project.cpp(65,33): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Admin\OneDrive\Documents\SchoolWork\CIS 7\Course Project\Course Project.cpp(66,41): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Admin\OneDrive\Documents\SchoolWork\CIS 7\Course Project\Course Project.cpp(87,41): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Admin\OneDrive\Documents\SchoolWork\CIS 7\Course Project\Course Project.cpp(88,33): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Course Project.vcxproj -> C:\Users\Admin\OneDrive\Documents\SchoolWork\CIS 7\Course Project\x64\Debug\Course Project.exe
